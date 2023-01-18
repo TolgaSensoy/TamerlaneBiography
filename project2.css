@@ -1,0 +1,62 @@
+
+* {
+    font-family:"Tahoma";
+    background-color:lightgrey;
+  }
+  h1, p[id="tribute-info"], div[id="img-div"] {
+      text-align:center;
+  }
+  
+  h1 {
+    font-size:45px
+  }
+  
+  img {
+    display:block;
+    margin:auto;
+    max-width:100%;
+    height:auto;
+    width:550px;
+    border-radius:10px;
+  }
+  div[id="timeline"] {
+    text-align:center;
+    font-size:25px;
+    padding-top:30px;
+    margin:auto;
+  }
+  ul {
+   direction: rtl;
+  }
+  h3, p[id="sources"], p[id="formoreinfo"], title {
+    text-align:right;
+  }
+  h3 {
+    margin-top:50px;
+  }
+  
+  div[id="img-div"] {
+    width:80%;
+    background-color:black;
+    border-radius:10px;
+    padding-top:10px;
+    margin:auto;
+    color:white;
+  }
+  
+  figcaption {
+    background-color:#899499;
+    border-radius:10px;
+    padding:5px;
+    display:block;
+    margin:auto;
+  }
+  figcaption > i {
+    background-color:#899499;
+    padding:5px;
+    display:block;
+    border-radius:10px;
+    text-align:center;
+    margin:auto;
+  }
+  
