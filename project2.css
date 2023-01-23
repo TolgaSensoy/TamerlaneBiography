@@ -1,7 +1,8 @@
 
 * {
-    font-family:"Tahoma";
+    font-family: 'Noto Nastaliq Urdu', serif;
     background-color:lightgrey;
+    font-size:25px;
   }
   h1, p[id="tribute-info"], div[id="img-div"] {
       text-align:center;
